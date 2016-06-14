@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">QQ8</string>
+    <string name="username">用户名</string>
+    <string name="pwd">密码</string>
+    <string name="login">登录</string>
+    <string name="newuser">新用户</string>
+    <string name="regist">注册</string>
+    <string name="username_invalil">用户名必须为字母开头的3到20位长度</string>
+    <string name="psw_invali">密码必须是3到20位的数字</string>
+    <string name="username_pwd_invali">用户名或者密码不合法</string>
+    <string name="regis_failure">注册失败:%%</string>
+    <string name="regist_fail">注册失败</string>
+    <string name="loading">正在加载</string>
+    <string name="please_waiting">请稍后...</string>
+    <string name="login_error">登录失败</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dongtai">动态</string>
+    <string name="xiaoxi">消息</string>
+    <string name="contact">通讯录</string>
+    <string name="logout_exit">退（%%）出</string>
+    <string name="logout_error">退出失败</string>
+    <string name="nodata">没有数据</string>
+    <string name="add_friend">添加好友</string>
+    <string name="empty_username">用户名不能为空</string>
+    <string name="add">添加</string>
+    <string name="add_friend_error">添加好友请求失败</string>
+    <string name="send_ok">请求发送成功</string>
+    <string name="get_contacts_error">获取好友列表失败</string>
+    <string name="sou">搜</string>
+    <string name="msg">消息</string>
+    <string name="send">发送</string>
+    <string name="chatwith">与%%聊天中</string>
+    <string name="empty_msg">消息不能为空</string>
+</resources>
